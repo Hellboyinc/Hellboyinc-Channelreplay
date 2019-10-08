@@ -1568,7 +1568,6 @@ ul.ul-checked > li:before {
 }
 
 @media (max-width: 991px) and (min-width: 600px) {
-
     .header #main-menu-wrapper {
         bottom: auto;
         width: 100%;
